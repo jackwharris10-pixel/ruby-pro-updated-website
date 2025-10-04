@@ -1,0 +1,15 @@
+@media (min-width: 500px) {
+  .ruby-pro-cards {
+    min-height: 250px;
+  }
+}
+@media (min-width: 1200px) {
+  .ruby-pro-cards {
+    min-height: 225px;
+  }
+}
+@media (min-width: 1400px) {
+  .ruby-pro-cards {
+    min-height: 190px;
+  }
+}
