@@ -6,3 +6,10 @@
   background-color: #681d15;
 }
 
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  color: #681d15 !important;
+  background-color: #ffffff !important;
+  border-color: #681d15 !important;
+  border-width: 4px;
+}
+
