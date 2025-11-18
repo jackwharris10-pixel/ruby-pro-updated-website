@@ -77,6 +77,22 @@
   padding-bottom: 3rem !important;
 }
 
+.pt-5 {
+  padding-top: 3rem !important;
+}
+
+.pt-6 {
+  padding-top: 4.5rem !important;
+}
+
+.pt-7 {
+  padding-top: 6rem !important;
+}
+
+.pb-3 {
+  padding-bottom: 1rem !important;
+}
+
 @media (min-width: 576px) {
   .p-sm-5 {
     padding: 3rem !important;

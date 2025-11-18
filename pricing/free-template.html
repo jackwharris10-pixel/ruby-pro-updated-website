@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html data-bs-theme="light" lang="en" data-bss-forced-theme="light">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Ruby Pro ERP for NY Distributors</title>
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;display=swap">
+    <link rel="stylesheet" href="../assets/css/bss-overrides.css">
+    <link rel="stylesheet" href="../assets/css/rubypro.css">
+    <link rel="stylesheet" href="../assets/css/rubypro.compiled.css">
+<script>function initApollo(){var n=Math.random().toString(36).substring(7),o=document.createElement("script");
+o.src="https://assets.apollo.io/micro/website-tracker/tracker.iife.js?nocache="+n,o.async=!0,o.defer=!0,
+o.onload=function(){window.trackingFunctions.onLoad({appId:"68dd9e5f3d1229001d8ed1a4"})},
+document.head.appendChild(o)}initApollo();</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LC32W6VK7M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LC32W6VK7M');
+</script><script>
+(function initApolloInbound() {
+   var nocache = Math.random().toString(36).substring(7);
+   var script = document.createElement('script');
+   script.src = 'https://assets.apollo.io/js/apollo-inbound.js?nocache=1234567'; // + nocache;
+   script.defer = true;
+   script.onload = function () {
+     let config = {
+       appId: '691b66386beda800119c1c98',
+       formElement: '#lead-form',
+     }
+     window.ApolloInbound.formEnrichment.init(config);
+
+     // Prevent Input listener on email field
+     let fld = document.querySelector('input[type="email"]');
+     fld.realAddEventListener = fld.addEventListener;
+
+     fld.addEventListener = function(a,b,c){
+       if (a == 'input') {
+         return;
+       } else {
+         this.realAddEventListener(a, b, c);
+       }
+     };
+
+     // Prefer submitForm callbacks (always available)
+     document.getElementById('lead-form').addEventListener('submit', function (e) {
+       e.preventDefault();
+       const data = {
+         email: document.getElementById('email').value,
+         first_name: document.getElementById('first_name').value,
+         last_name: document.getElementById('last_name').value
+       };
+       window.ApolloInbound.formEnrichment.submitForm(data, {
+         onSuccess: function (response) {
+           console.log('Submitted to Apollo:', response);
+         },
+         onError: function (error) {
+           console.error('Submit error:', error);
+         }
+       });
+       window.location.replace("/pricing/thank-you.html");
+     });
+     // Optional: subscribe to enrichment events if this build exposes them
+     const on =
+       (window.ApolloInbound && window.ApolloInbound.on) ||
+       (window.ApolloInbound.formEnrichment && window.ApolloInbound.formEnrichment.on);
+     const off =
+       (window.ApolloInbound && window.ApolloInbound.off) ||
+       (window.ApolloInbound.formEnrichment && window.ApolloInbound.formEnrichment.off);
+     if (typeof on === 'function' && typeof off === 'function') {
+       on('[APOLLO FORM ENRICHMENT]:submitSuccess', function () {
+         console.log('Apollo submit success');
+       });
+       on('[APOLLO FORM ENRICHMENT]:submitError', function (err) {
+         console.error('Apollo submit error', err);
+       });
+     } else {
+       console.warn('ApolloInbound event API not available; using submitForm callbacks only.');
+     }
+  };
+  document.head.appendChild(script);
+})();
+</script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg sticky-top text-primary bg-white navbar-light border-bottom">
+        <div class="container"><a class="navbar-brand fw-bold link-primary" href="/"><img class="position-relative float-start" src="../assets/img/ruby-pro-small-logo.png" width="53" height="53" style="margin-top:5px;"><span class="fs-1 ms-3">Ruby Pro Software</span></a><button data-bs-toggle="collapse" data-bs-target="#navbarsExample" class="navbar-toggler" type="button" aria-controls="navbarsExample" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarsExample">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/route-accounting">Distributors</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/pricing">Suppliers</a></li>
+                    <li class="nav-item"><a class="btn btn-primary ms-lg-3" role="button" href="/contact-us.html">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <section class="ruby-section">
+        <div class="container">
+            <div class="row justify-content-center pt-6">
+                <div class="col-lg-8">
+                    <p class="mb-2 pb-3 ruby-subheading" style="font-weight: 600;color: #7A2E24 !important;font-size: 21px;">Free Excel Template for Wine and Spirits Suppliers</p>
+                    <h1 class="display-5 mb-3 ruby-heading"> The only distributor pricing template you will ever need.</h1>
+                    <p class="mb-3 ruby-text"> Built from studying more than twenty-five real distributor price grids across the wine and spirits industry. One file that finally makes their logic visible: margins, allowances, taxes, and conversions in one place.</p>
+                    <p class="mb-4 ruby-text"> Instead of guessing how each distributor wants to see your numbers, you start with a model that already matches how they work.</p><a class="ms-lg-3 btn btn-primary" href="#download"> Get the Free Template</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="ruby-section ruby-section-light">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 pt-7">
+                    <h2 class="mb-3 ruby-heading">You do not have a pricing problem. You have a clarity problem.</h2>
+                    <p class="ruby-text"> Pricing in this industry runs on spreadsheets. Every supplier has one. Every distributor has one. None of them look the same.</p>
+                    <p class="ruby-text"> Suppliers send files that make sense to their finance teams. Distributors retype and reshape them into something their systems can accept. Somewhere in the middle, margins get fuzzy, errors creep in, and time disappears.</p>
+                    <p class="mb-0 ruby-text"> You do not need more cells, more tabs, or more versions of “final.” You need a shared way to see the numbers. A single grid that says,<em>this is how distributors actually think about your pricing.</em></p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="ruby-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 pt-7">
+                    <h2 class="mb-3 ruby-heading">How we built the template</h2>
+                    <p class="ruby-text"> We collected price grids from more than twenty-five distributors: large and small, single-state and multi-state, legacy systems and modern ERPs.</p>
+                    <p class="ruby-text"> We looked at:</p>
+                    <ul class="ruby-text">
+                        <li>How they convert cases, bottles, liters, and gallons</li>
+                        <li>How FOB, landed cost, and distributor margin are shown on one line</li>
+                        <li>How depletion allowances and supplier programs are layered in</li>
+                        <li>How freight, taxes, and fees are tracked without breaking the math</li>
+                        <li>How sales teams see pricing and how finance teams audit it</li>
+                    </ul>
+                    <p class="mb-0 ruby-text"> Then we removed the noise, kept the patterns that work, and turned it into a single template any supplier can use to “speak distributor” from day one.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="ruby-section ruby-section-light">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 pt-7">
+                    <h2 class="mb-3 ruby-heading">Why this matters</h2>
+                    <p class="ruby-text"> Every day, thousands of cases move based on spreadsheets like these. Most of them were built in a hurry, tweaked by three people, and never properly documented.</p>
+                    <p class="ruby-text"> This template is not a theoretical model. It is a reflection of how distributors already structure pricing, brought into one clean grid.</p>
+                    <p class="mb-0 ruby-text"> You can keep reverse-engineering each distributor’s format one by one. Or you can start with a template designed around how the industry already behaves and use your energy on strategy instead of layout.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="ruby-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 pt-7">
+                    <h2 class="mb-3 ruby-heading">What is inside the template</h2>
+                    <p class="ruby-text"> When you download the Distributor Pricing Template, you get:</p>
+                    <ul class="ruby-text">
+                        <li>A master grid structure built from 25+ real distributor formats</li>
+                        <li>Case, bottle, liter, and gallon conversion logic</li>
+                        <li>FOB, landed cost, and distributor margin laid out on one line</li>
+                        <li>Inputs for depletion allowances and supplier programs</li>
+                        <li>Fields for freight and state taxes, including NY and PA friendly layouts</li>
+                        <li>Sections for notes and internal reference so finance and sales can use the same file</li>
+                    </ul>
+                    <p class="mb-0 ruby-text"> No macros. No locked cells. No hidden tricks. Just a clear starting point that you can adapt to your portfolio and your distributors.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="download" class="ruby-section ruby-section-light">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-9 col-lg-7 pt-7">
+                    <h2 class="text-center mb-3 ruby-heading"> Download the Distributor Pricing Template</h2>
+                    <p class="text-center ruby-text"> This template is free, but it is not anonymous.</p>
+                    <p class="text-center mb-4 ruby-text"> If we are going to share something this valuable, we would like to know who we are helping. Just your name and email so we can send you the file and let you know when we release improvements.</p>
+                    <form id="lead-form" class="ruby-form">
+                        <div class="mb-3"><label class="form-label" for="name-1">First Name</label><input class="form-control" type="text" id="first_name" name="first_name" placeholder="First name" required=""></div>
+                        <div class="mb-3"><label class="form-label" for="name">Last Name</label><input class="form-control" type="text" id="last_name" name="last_name" placeholder="Last name" required=""></div>
+                        <div class="mb-4"><label class="form-label" for="email">Email</label><input class="form-control" type="email" id="email" name="email" placeholder="you@company.com" required=""></div><button class="w-100 btn-ruby" type="submit"> Send Me the Template</button>
+                        <p class="text-center mt-3 mb-0 ruby-muted"> No spam. No automation sequences disguised as conversations. Just useful tools for people who care about pricing.</p>
+                    </form>
+                    <p class="text-center mt-4 mb-0 ruby-muted"> We ask for your email for one reason: to send you tools that make pricing less messy and more predictable.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="bg-white mt-5 py-4 border-top">
+        <div class="container d-flex justify-content-between align-items-center flex-wrap">
+            <p class="text-muted mb-0 small">© 2025 Ruby Pro Software. Built for wine &amp; spirits distributors.</p>
+            <div class="text-primary small"><a class="text-decoration-none me-3" href="/" style="color:#681d15;">Home</a><a class="text-decoration-none me-3" href="/route-accounting" style="color:#681d15;">Ruby Pro ERP</a><a class="text-decoration-none me-3" href="/pricing" style="color:#681d15;">Ruby Price Management</a><a class="text-decoration-none" href="/contact-us.html" style="color:#681d15;">Contact Us</a></div>
+        </div>
+    </footer><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js">
+</script>
+    <script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+</body>
+
+</html>
