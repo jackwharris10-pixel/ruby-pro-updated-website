@@ -77,6 +77,7 @@ function show_state_name(content) {
         let element = document.getElementById(name);
         element.innerHTML = content.name;
     });
+    document.title = "Ruby Pro ERP for " + content.name + " Distributors";
 }
 
 async function main() {
