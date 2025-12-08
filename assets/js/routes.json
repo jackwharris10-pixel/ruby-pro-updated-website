@@ -1,8 +1,12 @@
 {
   "routes": [
-    {
-      "route": "/route-accounting/state/*",
-      "rewrite": "/route-accounting/state/index.html"
-    }
+      {
+          "route": "/ny.html",
+          "redirect": "/route-accounting/state/ny"
+      },
+      {
+          "route": "/route-accounting/state/*",
+          "rewrite": "/route-accounting/state/index.html"
+      }
   ]
 }

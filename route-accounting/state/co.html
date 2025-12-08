@@ -23,7 +23,7 @@ document.head.appendChild(o)}initApollo();</script>
   gtag('js', new Date());
 
   gtag('config', 'G-LC32W6VK7M');
-</script><script src='/assets/js/states.js'></script>
+</script><script src="/assets/js/states.js"></script>
 </head>
 
 <body>
@@ -43,17 +43,15 @@ document.head.appendChild(o)}initApollo();</script>
         <div class="container">
             <div class="row align-items-center g-5">
                 <div class="col-lg-6">
-                    <h1 class="display-5 fs-1 fw-bold lh-1"><span class="text-primary">Built for NY Distributors</span></h1>
+                    <h1 class="display-5 fs-1 fw-bold lh-1"><span class="text-primary">Built for&nbsp;</span><span class="text-primary" id="built-for-state-name">Text</span><span class="text-primary">&nbsp;Distributors</span></h1>
                     <p class="lead mt-3">Ruby Pro ERP understands the three-tier system, the compliance headaches, and the operational chaos. It’s not a retrofit—it’s a rethink. Built for wine &amp; spirits distributors who want clarity, control, and compliance in one place.</p>
                     <div class="d-flex gap-3 mt-4"><a class="btn btn-primary btn-lg" role="button" href="#demo">Request a Demo</a><a class="btn btn-outline-primary btn-lg" role="button" href="price-management.html">Learn more</a></div>
                 </div>
                 <div class="col-lg-6">
                     <div class="bg-light-subtle border rounded-4 border-primary shadow-sm p-4 hero-card">
-                        <h5 class="fw-semibold text-primary mb-3">Why NY teams switch to Ruby Pro</h5>
-                        <div id="why-state"></div><script>
-let list = show_list();
-let element = document.getElementById("why-state");
-element.innerHTML = list;
+                        <h5 class="fw-semibold text-primary mb-3"><span>Why&nbsp;</span><span id="why-state-name">Text</span>&nbsp;teams switch to Ruby Pro</h5>
+                        <div id="why-list"></div><script>
+main();
 </script>
                     </div>
                 </div>
@@ -69,11 +67,7 @@ element.innerHTML = list;
                             <h1 class="card-title">The Problem</h1>
                             <h3 class="h5">You didn’t choose QuickBooks. Your accountant did.</h3>
                             <p class="mt-4"> QuickBooks was built for accounting—not distribution. That’s why your team is stuck juggling: </p>
-                            <ul>
-                                <li>Manual credit checks</li>
-                                <li>NY price posting spreadsheets</li>
-                                <li>3PL handoffs through endless email chains</li>
-                            </ul><span> Ruby Pro ERP changes that. One system. One dashboard. Under $1,000/month. </span>
+                            <div id="problem-list"></div><span> Ruby Pro ERP changes that. One system. One dashboard. Under $1,000/month. </span>
                             <p></p>
                         </div>
                     </div>
@@ -84,11 +78,7 @@ element.innerHTML = list;
                             <h1 class="card-title">The Ruby Pro Difference</h1>
                             <h3 class="h5">Designed for New York’s three-tier realities.</h3>
                             <p class="mt-4"> Ruby Pro helps you: </p>
-                            <ul>
-                                <li>Run real-time credit checks before release</li>
-                                <li>Auto-structure and audit price files for NY compliance</li>
-                                <li>Integrate directly with Western Carriers, Fond du Lac, and Alba</li>
-                            </ul><span> No more duplicate spreadsheets. No more manual re-entry. No more margin erosion. </span>
+                            <div id="difference-list"></div><span> No more duplicate spreadsheets. No more manual re-entry. No more margin erosion. </span>
                             <p></p>
                         </div>
                     </div>
@@ -102,11 +92,7 @@ element.innerHTML = list;
             <p class="lead mb-5">Ruby Pro replaces the patchwork with a platform. Here’s how:</p>
             <div class="row justify-content-center">
                 <div class="col-md-8">
-                    <ol class="fs-5 lh-lg">
-                        <li>Automate compliance with one-click posting</li>
-                        <li>Streamline 3PLs with real-time updates</li>
-                        <li>See inventory, orders, and profitability clearly</li>
-                    </ol>
+                    <div id="how-it-works-list"></div>
                 </div>
             </div>
         </div>

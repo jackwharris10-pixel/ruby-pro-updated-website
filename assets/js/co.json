@@ -1,0 +1,24 @@
+{
+    "name": "Collorado",
+    "why_ruby_pro": [
+        "Create and manage chain pricing in one place",
+        "Family deals with free goods applied by customer type",
+        "Credit checks before release, automatically.",
+        "3PL integration to MMK Logistics that make end of day easy."
+    ],
+    "problem": [
+        "Manual credit checks",
+        "Manual tax calculations",
+        "Challenges with customer specific pricing"
+    ],
+    "difference": [
+        "Run real-time credit checks before order release",
+        "Price each order based on the quantity, including free goods",
+        "Integrate directly with MMK Logistics"
+    ],
+    "how_it_works": [
+        "Automate compliance with one-click posting",
+        "Streamline 3PLs with real-time updates",
+        "See inventory, orders, and profitability clearly"
+    ]
+}

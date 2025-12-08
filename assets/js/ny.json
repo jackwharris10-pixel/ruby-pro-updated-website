@@ -1,0 +1,23 @@
+{
+    "name": "New York",
+    "why_ruby_pro": [
+        "Credit checks before release, automatically",
+        "Price posing without double entry",
+        "3PL integrations that make end of day easy"
+    ],
+    "problem": [
+        "Manual credit checks",
+        "NY price posting spreadsheets",
+        "3PL handoffs through endless email chains"
+    ],
+    "difference": [
+        "Run real-time credit checks before release",
+        "Auto-structure and audit price files for NY compliance",
+        "Integrate directly with Western Carriers, Fond du Lac, and Alba"
+    ],
+    "how_it_works": [
+        "Automate compliance with one-click posting",
+        "Streamline 3PLs with real-time updates",
+        "See inventory, orders, and profitability clearly"
+    ]
+}

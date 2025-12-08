@@ -1,8 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/route-accounting/state/*",
-      "rewrite": "/route-accounting/state/index.html"
-    }
-  ]
-}
+./assets/js/routes.json
