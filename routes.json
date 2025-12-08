@@ -1,8 +1,0 @@
-{
-  "routes": [
-    {
-      "route": "/route-accounting/state/*",
-      "rewrite": "/route-accounting/state/index.html"
-    }
-  ]
-}
