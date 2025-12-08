@@ -172,6 +172,10 @@
   padding-bottom: 1rem !important;
 }
 
+.pb-4 {
+  padding-bottom: 1.5rem !important;
+}
+
 @media (min-width: 576px) {
   .p-sm-5 {
     padding: 3rem !important;
