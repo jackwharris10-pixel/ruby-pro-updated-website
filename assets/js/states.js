@@ -15,7 +15,9 @@ async function load_content(state) {
     try {
         const response = await fetch(state_file);
         if (!response.ok) {
-            throw new Error('Network response was not ok ' + response.statusText);
+            let content = await load_content('default');
+            content.name = content[state] || "";
+            return content;
         }
         return await response.json(); // parse JSON
     } catch (error) {
@@ -68,6 +70,9 @@ function show_how(content) {
 }
 
 function show_state_name(content) {
+    if (!content.name) {
+        return;
+    }
     let element_ids = [
         "built-for-state-name",
         "why-state-name",
@@ -75,7 +80,11 @@ function show_state_name(content) {
     ]
     element_ids.map((name) => {
         let element = document.getElementById(name);
-        element.innerHTML = content.name;
+        if (name === "designed-for-state-name") {
+            element.innerHTML = content.name + "'s "
+        } else {
+            element.innerHTML = content.name + " ";
+        }
     });
     document.title = "Ruby Pro ERP for " + content.name + " Distributors";
 }
