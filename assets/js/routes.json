@@ -1,10 +1,6 @@
 {
   "routes": [
       {
-          "route": "/ny.html",
-          "redirect": "/route-accounting/state/ny"
-      },
-      {
           "route": "/route-accounting/state/*",
           "rewrite": "/route-accounting/state/index.html"
       }

@@ -70,7 +70,8 @@ function show_how(content) {
 function show_state_name(content) {
     let element_ids = [
         "built-for-state-name",
-        "why-state-name"
+        "why-state-name",
+        "designed-for-state-name"
     ]
     element_ids.map((name) => {
         let element = document.getElementById(name);
