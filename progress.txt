@@ -1,3 +1,12 @@
 # Ralph Wiggum Progress Log — Ruby Pro Website
 # ===================================================================
 
+## Iteration 1 — 2026-03-11
+**Task:** Task 1 — Commit all uncommitted work
+**What I did:**
+- Committed 404.html, privacy-policy.html, terms-of-service.html, robots.txt, sitemap.xml (SEO/legal/404 commit)
+- Committed 14 state JSON files: ca, fl, ga, mi, mn, nc, nj, nv, oh, pa, tn, tx, va, wa
+- Committed CLAUDE.md project instructions
+- Skipped prd.json.backup and prd.json.pre_iteration (temp files, not tracked)
+**Result:** All meaningful uncommitted files committed. git status clean (except temp backup files).
+

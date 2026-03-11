@@ -10,7 +10,7 @@
       "acceptanceCriteria": ["All changes committed", "git status clean"],
       "model": "sonnet",
       "priority": 1,
-      "passes": false
+      "passes": true
     },
     {
       "id": 2,
