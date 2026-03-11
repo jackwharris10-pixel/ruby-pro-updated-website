@@ -19,7 +19,7 @@
       "acceptanceCriteria": ["7 new JSON files created", "state_map.json updated", "Content references real state regulations"],
       "model": "sonnet",
       "priority": 2,
-      "passes": false
+      "passes": true
     },
     {
       "id": 3,

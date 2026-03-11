@@ -1,0 +1,23 @@
+{
+    "name": "Connecticut",
+    "why_ruby_pro": [
+        "DCP licensing compliance built into every order",
+        "Connecticut's price posting and minimum bottle pricing rules enforced automatically",
+        "Excise tax calculations under CGS Chapter 545 on every transaction"
+    ],
+    "problem": [
+        "DCP price posting deadlines missed from manual tracking",
+        "Minimum bottle price calculations done in spreadsheets prone to errors",
+        "CGS Chapter 545 excise reporting assembled from disconnected data"
+    ],
+    "difference": [
+        "Auto-enforce DCP price posting requirements before submission deadlines",
+        "Built-in minimum bottle price enforcement on every order",
+        "One-click excise tax reporting from live transaction data"
+    ],
+    "how_it_works": [
+        "Every SKU priced and posted automatically against DCP schedules",
+        "Price posting alerts sent before DCP filing windows close",
+        "See account profitability clearly across Connecticut's premium market"
+    ]
+}

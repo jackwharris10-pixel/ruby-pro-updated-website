@@ -1,0 +1,23 @@
+{
+    "name": "Hawaii",
+    "why_ruby_pro": [
+        "DCCA liquor licensing compliance enforced per island county",
+        "Hawaii's four county liquor commission rules handled automatically",
+        "Excise tax calculations under HRS Chapter 244D on every transaction"
+    ],
+    "problem": [
+        "Four county liquor commissions with different rules tracked manually",
+        "HRS Chapter 244D excise reporting assembled from disconnected spreadsheets",
+        "Island logistics and high delivery costs obscuring true route profitability"
+    ],
+    "difference": [
+        "Auto-enforce island-level county liquor commission rules on every order",
+        "Built-in Chapter 244D excise tax reporting from live transaction data",
+        "See real delivery costs per island to protect margins across Hawaii"
+    ],
+    "how_it_works": [
+        "Every account tagged with county liquor commission rules and license status",
+        "One-click HRS 244D excise reports from actual orders and inventory",
+        "See route profitability across Oahu, Maui, Hawaii Island, and Kauai"
+    ]
+}

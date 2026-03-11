@@ -1,0 +1,23 @@
+{
+    "name": "Idaho",
+    "why_ruby_pro": [
+        "ISC licensing and control state compliance built into every order",
+        "Idaho's state-controlled spirits system rules enforced automatically",
+        "Excise tax calculations under Idaho Code Title 23 on every transaction"
+    ],
+    "problem": [
+        "ISC reporting requirements tracked manually across product categories",
+        "Title 23 excise compliance assembled from disconnected spreadsheets",
+        "Control state spirits restrictions creating order errors and returns"
+    ],
+    "difference": [
+        "Auto-enforce ISC product category rules before orders are placed",
+        "Built-in Title 23 excise tax reporting from live transaction data",
+        "Eliminate control state order errors before they cost you a return trip"
+    ],
+    "how_it_works": [
+        "Every SKU tagged with ISC category and compliance requirements automatically",
+        "One-click Title 23 excise reports from actual orders and inventory",
+        "See route profitability across Boise, Nampa, and Idaho's rural territories"
+    ]
+}

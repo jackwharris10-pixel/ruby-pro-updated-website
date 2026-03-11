@@ -1,0 +1,23 @@
+{
+    "name": "Delaware",
+    "why_ruby_pro": [
+        "OABCC licensing compliance enforced on every order",
+        "Delaware's three-tier rules and tied-house safeguards built in",
+        "Excise tax calculations under Delaware Code Title 4 on every transaction"
+    ],
+    "problem": [
+        "OABCC retailer license status tracked manually across accounts",
+        "Title 4 excise tax reporting assembled from disconnected spreadsheets",
+        "Small team stretched thin across Delaware's compact but high-volume market"
+    ],
+    "difference": [
+        "Auto-verify OABCC licenses before every order ships",
+        "Built-in Title 4 excise tax reporting from live transaction data",
+        "Run a lean operation in Delaware without sacrificing compliance accuracy"
+    ],
+    "how_it_works": [
+        "Every account tagged with OABCC license class and status automatically",
+        "One-click excise reports from actual orders and inventory",
+        "See route profitability across Wilmington, Dover, and the Delaware beaches"
+    ]
+}

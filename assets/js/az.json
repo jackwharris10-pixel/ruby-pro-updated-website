@@ -1,0 +1,23 @@
+{
+    "name": "Arizona",
+    "why_ruby_pro": [
+        "DLLC licensing compliance built into every order",
+        "Arizona's three-tier enforcement rules enforced automatically",
+        "Excise tax calculations on beer, wine, and spirits per ARS Title 4"
+    ],
+    "problem": [
+        "DLLC license status tracked manually across hundreds of accounts",
+        "ARS Title 4 compliance assembled from disconnected spreadsheets",
+        "Phoenix and Tucson market growth outpacing your back-office capacity"
+    ],
+    "difference": [
+        "Auto-verify DLLC retailer licenses before every order ships",
+        "Built-in ARS Title 4 excise tax reporting from live transaction data",
+        "Scale into Arizona's fast-growing market without adding admin overhead"
+    ],
+    "how_it_works": [
+        "Every account tagged with DLLC license class and status automatically",
+        "One-click excise tax reports from actual orders and inventory",
+        "See route profitability across Phoenix, Tucson, and rural Arizona territories"
+    ]
+}

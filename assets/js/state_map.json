@@ -1,6 +1,26 @@
 {
-    "ny": {
-        name: "New York",
-        file: "ny.json",
-    }
+    "ny": { "name": "New York", "file": "ny.json" },
+    "ca": { "name": "California", "file": "ca.json" },
+    "fl": { "name": "Florida", "file": "fl.json" },
+    "ga": { "name": "Georgia", "file": "ga.json" },
+    "mi": { "name": "Michigan", "file": "mi.json" },
+    "mn": { "name": "Minnesota", "file": "mn.json" },
+    "nc": { "name": "North Carolina", "file": "nc.json" },
+    "nj": { "name": "New Jersey", "file": "nj.json" },
+    "nv": { "name": "Nevada", "file": "nv.json" },
+    "oh": { "name": "Ohio", "file": "oh.json" },
+    "pa": { "name": "Pennsylvania", "file": "pa.json" },
+    "tn": { "name": "Tennessee", "file": "tn.json" },
+    "tx": { "name": "Texas", "file": "tx.json" },
+    "va": { "name": "Virginia", "file": "va.json" },
+    "wa": { "name": "Washington", "file": "wa.json" },
+    "co": { "name": "Colorado", "file": "co.json" },
+    "il": { "name": "Illinois", "file": "il.json" },
+    "az": { "name": "Arizona", "file": "az.json" },
+    "ar": { "name": "Arkansas", "file": "ar.json" },
+    "ct": { "name": "Connecticut", "file": "ct.json" },
+    "de": { "name": "Delaware", "file": "de.json" },
+    "dc": { "name": "Washington DC", "file": "dc.json" },
+    "hi": { "name": "Hawaii", "file": "hi.json" },
+    "id": { "name": "Idaho", "file": "id.json" }
 }

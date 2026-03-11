@@ -10,3 +10,16 @@
 - Skipped prd.json.backup and prd.json.pre_iteration (temp files, not tracked)
 **Result:** All meaningful uncommitted files committed. git status clean (except temp backup files).
 
+## Iteration 2 — 2026-03-11
+**Task:** Task 2 — Add state JSON: AZ, AR, CT, DE, DC, HI, ID
+**What I did:**
+- Created assets/js/az.json (Arizona — DLLC licensing, ARS Title 4 excise)
+- Created assets/js/ar.json (Arkansas — ABC permits, wet/dry county enforcement, Title 3)
+- Created assets/js/ct.json (Connecticut — DCP price posting, CGS Chapter 545 excise)
+- Created assets/js/de.json (Delaware — OABCC licensing, Title 4 excise)
+- Created assets/js/dc.json (Washington DC — ABRA licensing, DC Code Title 25 excise)
+- Created assets/js/hi.json (Hawaii — four county liquor commissions, HRS Chapter 244D)
+- Created assets/js/id.json (Idaho — ISC control state, Idaho Code Title 23 excise)
+- Updated state_map.json to include all 24 states with JSON files (14 from Task 1 + co + il + 7 new)
+**Result:** 7 new JSON files created with state-specific regulatory content. state_map.json updated.
+

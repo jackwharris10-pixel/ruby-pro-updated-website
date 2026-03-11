@@ -1,0 +1,23 @@
+{
+    "name": "Arkansas",
+    "why_ruby_pro": [
+        "ABC licensing and dry county compliance enforced automatically",
+        "Arkansas's complex wet/dry/mixed boundary rules handled per account",
+        "Excise tax calculations under Arkansas Code Title 3 built into every order"
+    ],
+    "problem": [
+        "Dry and wet boundary rules tracked manually across Arkansas counties",
+        "ABC permit verification assembled from disconnected spreadsheets",
+        "Local option election changes creating compliance gaps overnight"
+    ],
+    "difference": [
+        "Auto-enforce wet/dry county boundaries on every order before it ships",
+        "Built-in ABC compliance reporting from your live transaction data",
+        "Alert your team instantly when local option status changes"
+    ],
+    "how_it_works": [
+        "Every account tagged with wet/dry status and ABC permit class automatically",
+        "One-click Title 3 excise tax reporting from actual orders and inventory",
+        "See route profitability across Little Rock, Fort Smith, and rural Arkansas"
+    ]
+}

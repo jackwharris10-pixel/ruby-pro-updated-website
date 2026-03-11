@@ -1,0 +1,23 @@
+{
+    "name": "Washington DC",
+    "why_ruby_pro": [
+        "ABRA licensing compliance built into every order",
+        "DC's endorsement and license class rules enforced automatically",
+        "Excise tax calculations under DC Code Title 25 on every transaction"
+    ],
+    "problem": [
+        "ABRA license endorsements tracked manually across DC accounts",
+        "DC Code Title 25 excise reporting assembled from disconnected data",
+        "Dense urban market with complex delivery logistics eating into margins"
+    ],
+    "difference": [
+        "Auto-verify ABRA license endorsements before orders ship",
+        "Built-in DC excise tax reporting from live transaction data",
+        "Optimize routes across DC's dense neighborhoods to protect margins"
+    ],
+    "how_it_works": [
+        "Every account tagged with ABRA license class and endorsement automatically",
+        "One-click Title 25 excise reports from actual orders and inventory",
+        "See profitability by ward and neighborhood across Washington DC"
+    ]
+}
