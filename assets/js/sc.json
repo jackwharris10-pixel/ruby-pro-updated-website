@@ -1,0 +1,23 @@
+{
+    "name": "South Carolina",
+    "why_ruby_pro": [
+        "SCDOR licensing compliance under SC Code Title 61 built into every workflow",
+        "Excise tax calculations for beer, wine, and spirits on every transaction",
+        "Local ordinance and county rules tracked automatically across all territories"
+    ],
+    "problem": [
+        "SCDOR Title 61 compliance assembled manually from disconnected spreadsheets",
+        "South Carolina excise calculations for multiple license tiers prone to error",
+        "County-level rules and local ordinances tracked in someone's head"
+    ],
+    "difference": [
+        "Auto-enforce SCDOR licensing rules on every South Carolina order",
+        "Built-in Title 61 excise reporting from your live transaction data",
+        "Scale into South Carolina's growing market without adding compliance overhead"
+    ],
+    "how_it_works": [
+        "Every account tagged with SCDOR license class and county-level rules",
+        "One-click Title 61 excise reports generated from actual orders and inventory",
+        "See route profitability and account health across all South Carolina territories"
+    ]
+}

@@ -49,3 +49,16 @@
 - Updated state_map.json to include all 38 states with JSON files
 **Result:** 7 new JSON files created with state-specific regulatory content. state_map.json updated.
 
+## Iteration 5 — 2026-03-11
+**Task:** Task 5 — Add state JSON: ND, OK, OR, RI, SC, SD, UT
+**What I did:**
+- Created assets/js/nd.json (North Dakota — NDARB licensing, ND Century Code Title 5 excise, control state)
+- Created assets/js/ok.json (Oklahoma — ABLE Commission licensing, OK Statutes Title 37A, post-2018 modernization)
+- Created assets/js/or.json (Oregon — OLCC price posting, ORS Chapter 471 excise, control-state spirits)
+- Created assets/js/ri.json (Rhode Island — DBR liquor control, RIGL Title 3 excise, price posting)
+- Created assets/js/sc.json (South Carolina — SCDOR Title 61 licensing, excise, county ordinances)
+- Created assets/js/sd.json (South Dakota — SD DOR licensing, SDCL Title 35 excise, tribal jurisdictions)
+- Created assets/js/ut.json (Utah — DABC licensing, Utah Code Title 32B, control-state markup rules)
+- Updated state_map.json to include all 45 states/DC with JSON files
+**Result:** 7 new JSON files created with state-specific regulatory content. state_map.json updated.
+

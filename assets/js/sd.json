@@ -1,0 +1,23 @@
+{
+    "name": "South Dakota",
+    "why_ruby_pro": [
+        "SD DOR alcohol licensing compliance under SDCL Title 35 built into every workflow",
+        "Excise tax calculations for beer, wine, and spirits on every transaction",
+        "Tribal jurisdiction and local option rules tracked automatically"
+    ],
+    "problem": [
+        "SD DOR Title 35 compliance assembled manually from disconnected data sources",
+        "South Dakota excise calculations done in spreadsheets prone to filing errors",
+        "Tribal jurisdiction boundaries and local option territories tracked informally"
+    ],
+    "difference": [
+        "Auto-enforce SD DOR licensing rules on every South Dakota order",
+        "Built-in SDCL Title 35 excise reporting from your live transaction data",
+        "Flag tribal jurisdiction accounts automatically so every delivery stays compliant"
+    ],
+    "how_it_works": [
+        "Every account tagged with SD DOR license class and applicable jurisdictional rules",
+        "One-click Title 35 excise reports pulled from actual orders and inventory",
+        "See route profitability and account health across all South Dakota territories"
+    ]
+}

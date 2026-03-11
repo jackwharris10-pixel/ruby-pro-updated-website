@@ -1,0 +1,23 @@
+{
+    "name": "Oregon",
+    "why_ruby_pro": [
+        "OLCC licensing compliance and price posting built into every workflow",
+        "ORS Chapter 471 excise tax calculations on every transaction",
+        "Control-state spirits fulfillment coordinated automatically with OLCC"
+    ],
+    "problem": [
+        "OLCC price posting deadlines missed because data lives in multiple spreadsheets",
+        "Chapter 471 excise calculations done manually and rechecked every filing period",
+        "Control-state spirits ordering from OLCC slows your distribution cycle"
+    ],
+    "difference": [
+        "Auto-enforce OLCC price posting requirements on every Oregon product listing",
+        "Built-in Chapter 471 excise reporting from your live transaction data",
+        "Streamline control-state spirits coordination with real-time inventory visibility"
+    ],
+    "how_it_works": [
+        "Every SKU tagged with OLCC price posting status and excise class",
+        "One-click ORS Chapter 471 excise reports from actual orders and sales",
+        "See distributor route profitability and account health across all Oregon territories"
+    ]
+}

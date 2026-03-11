@@ -1,0 +1,23 @@
+{
+    "name": "North Dakota",
+    "why_ruby_pro": [
+        "NDARB licensing compliance built into every distributor workflow",
+        "Excise tax calculations under ND Century Code Title 5 on every transaction",
+        "Control-state spirits coordination managed automatically"
+    ],
+    "problem": [
+        "NDARB reporting assembled manually from disconnected spreadsheets",
+        "North Dakota excise tax calculations prone to error under Title 5",
+        "Coordinating with the state control system slows order fulfillment"
+    ],
+    "difference": [
+        "Auto-calculate North Dakota excise on every invoice with no manual steps",
+        "NDARB compliance reports generated from your live transaction data",
+        "Route-level visibility across North Dakota's spread-out distribution territory"
+    ],
+    "how_it_works": [
+        "Every order tagged with Title 5 excise rates at the line-item level",
+        "One-click NDARB reports pulled directly from actual sales and inventory",
+        "See account health and route profitability across all North Dakota territories"
+    ]
+}

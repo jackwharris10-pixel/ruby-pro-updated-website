@@ -36,5 +36,12 @@
     "mt": { "name": "Montana", "file": "mt.json" },
     "ne": { "name": "Nebraska", "file": "ne.json" },
     "nh": { "name": "New Hampshire", "file": "nh.json" },
-    "nm": { "name": "New Mexico", "file": "nm.json" }
+    "nm": { "name": "New Mexico", "file": "nm.json" },
+    "nd": { "name": "North Dakota", "file": "nd.json" },
+    "ok": { "name": "Oklahoma", "file": "ok.json" },
+    "or": { "name": "Oregon", "file": "or.json" },
+    "ri": { "name": "Rhode Island", "file": "ri.json" },
+    "sc": { "name": "South Carolina", "file": "sc.json" },
+    "sd": { "name": "South Dakota", "file": "sd.json" },
+    "ut": { "name": "Utah", "file": "ut.json" }
 }
