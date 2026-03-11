@@ -1,0 +1,88 @@
+{
+  "project": "Ruby Pro Website — Overnight Tasks",
+  "branch": "main",
+  "notes": "Static HTML + Bootstrap 5 site. Auto-deploys on push to main.",
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Commit all uncommitted work",
+      "description": "Stage and commit all current changes: content rewrites (index.html, route-accounting, pricing), SEO additions (favicon, JSON-LD, robots.txt, sitemap.xml), new legal pages (privacy-policy.html, terms-of-service.html), 404 page, footer updates, state JSON files, default.json typo fix, ny.html deletion. Split into logical commits: 1) content rewrites, 2) SEO/legal/404, 3) state JSON files.",
+      "acceptanceCriteria": ["All changes committed", "git status clean"],
+      "model": "sonnet",
+      "priority": 1,
+      "passes": false
+    },
+    {
+      "id": 2,
+      "title": "Add state JSON: AZ, AR, CT, DE, DC, HI, ID",
+      "description": "Create assets/js/{state}.json for AZ, AR, CT, DE, DC, HI, ID. Follow the exact pattern in ga.json: name, why_ruby_pro (3 items), problem (3 items), difference (3 items), how_it_works (3 items). Content must reference real state-specific alcohol laws, regulatory bodies, and compliance requirements. Also add entries to state_map.json.",
+      "acceptanceCriteria": ["7 new JSON files created", "state_map.json updated", "Content references real state regulations"],
+      "model": "sonnet",
+      "priority": 2,
+      "passes": false
+    },
+    {
+      "id": 3,
+      "title": "Add state JSON: IN, IA, KS, KY, LA, ME, MD",
+      "description": "Create assets/js/{state}.json for IN, IA, KS, KY, LA, ME, MD following ga.json pattern. Add entries to state_map.json. Content must reference real state-specific alcohol laws.",
+      "acceptanceCriteria": ["7 new JSON files created", "state_map.json updated"],
+      "model": "sonnet",
+      "priority": 2,
+      "passes": false
+    },
+    {
+      "id": 4,
+      "title": "Add state JSON: MA, MS, MO, MT, NE, NH, NM",
+      "description": "Create assets/js/{state}.json for MA, MS, MO, MT, NE, NH, NM following ga.json pattern. Add entries to state_map.json.",
+      "acceptanceCriteria": ["7 new JSON files created", "state_map.json updated"],
+      "model": "sonnet",
+      "priority": 2,
+      "passes": false
+    },
+    {
+      "id": 5,
+      "title": "Add state JSON: ND, OK, OR, RI, SC, SD, UT",
+      "description": "Create assets/js/{state}.json for ND, OK, OR, RI, SC, SD, UT following ga.json pattern. Add entries to state_map.json.",
+      "acceptanceCriteria": ["7 new JSON files created", "state_map.json updated"],
+      "model": "sonnet",
+      "priority": 2,
+      "passes": false
+    },
+    {
+      "id": 6,
+      "title": "Add state JSON: VT, WV, WI, WY, AK, AL",
+      "description": "Create assets/js/{state}.json for VT, WV, WI, WY, AK, AL following ga.json pattern. Add entries to state_map.json. This completes all 50 states.",
+      "acceptanceCriteria": ["6 new JSON files created", "state_map.json has all 50 states + DC"],
+      "model": "sonnet",
+      "priority": 2,
+      "passes": false
+    },
+    {
+      "id": 7,
+      "title": "Update sitemap.xml with all state pages",
+      "description": "Update sitemap.xml to include /route-accounting/state/{abbrev} URLs for all 50 states + DC. Each should have lastmod of today's date and changefreq of monthly.",
+      "acceptanceCriteria": ["sitemap.xml has 51 state URLs", "Valid XML"],
+      "model": "haiku",
+      "priority": 3,
+      "passes": false
+    },
+    {
+      "id": 8,
+      "title": "Add Open Graph meta tags to all pages",
+      "description": "Add og:title, og:description, og:image, og:url, og:type meta tags to index.html, route-accounting/index.html, pricing/index.html, and contact-us.html. Use the Ruby Pro logo as og:image. Add twitter:card meta tags too.",
+      "acceptanceCriteria": ["OG tags on all 4 main pages", "Twitter card tags present"],
+      "model": "sonnet",
+      "priority": 3,
+      "passes": false
+    },
+    {
+      "id": 9,
+      "title": "Add canonical URLs to all pages",
+      "description": "Add <link rel='canonical'> tags to every HTML page pointing to https://www.rubyprosoftware.com/{path}. This prevents duplicate content issues.",
+      "acceptanceCriteria": ["Canonical tags on all pages", "URLs are absolute"],
+      "model": "haiku",
+      "priority": 4,
+      "passes": false
+    }
+  ]
+}
