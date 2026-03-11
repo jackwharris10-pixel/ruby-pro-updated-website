@@ -1,0 +1,23 @@
+{
+    "name": "New Hampshire",
+    "why_ruby_pro": [
+        "NH Liquor Commission control-state purchase order workflows built into every transaction",
+        "RSA Chapter 178 excise and licensing compliance automated for wine and beer operations",
+        "NHLC agency and special licensee rules enforced automatically across all routes"
+    ],
+    "problem": [
+        "New Hampshire's NHLC control-state spirits system requires separate ordering workflows",
+        "RSA Chapter 178 compliance and licensing filings assembled manually each period",
+        "Managing on-premise and retail accounts across NHLC approval processes without a system"
+    ],
+    "difference": [
+        "Auto-enforce NHLC purchase order requirements for spirits on every applicable transaction",
+        "Built-in RSA Chapter 178 excise reporting directly from your live transaction data",
+        "Streamline NHLC agency workflows and wine/beer licensing without manual tracking"
+    ],
+    "how_it_works": [
+        "Every account tagged with NHLC license class and control-state status automatically",
+        "One-click RSA Chapter 178 excise reports generated from actual orders and inventory",
+        "See route profitability and account health across all New Hampshire territories"
+    ]
+}

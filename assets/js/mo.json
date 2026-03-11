@@ -1,0 +1,23 @@
+{
+    "name": "Missouri",
+    "why_ruby_pro": [
+        "ATC licensing compliance built into every account and delivery route",
+        "RSMo Chapter 311 excise tax calculations automated on all transactions",
+        "Local municipality licensing rules enforced automatically across all Missouri routes"
+    ],
+    "problem": [
+        "Missouri ATC license classes and local rules tracked manually across hundreds of accounts",
+        "Chapter 311 excise filings assembled from disconnected spreadsheets each filing period",
+        "Expanding Missouri market outpacing your team's manual compliance capacity"
+    ],
+    "difference": [
+        "Auto-enforce ATC license requirements and local restrictions on every order",
+        "Built-in Chapter 311 excise reporting directly from your live transaction data",
+        "Scale across Missouri's open license market without adding administrative overhead"
+    ],
+    "how_it_works": [
+        "Every account tagged with ATC license class and local municipality rules automatically",
+        "One-click Chapter 311 excise reports generated from actual orders and inventory",
+        "See route profitability and account health across all Missouri territories"
+    ]
+}

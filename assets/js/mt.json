@@ -1,0 +1,23 @@
+{
+    "name": "Montana",
+    "why_ruby_pro": [
+        "MT Department of Revenue control-state compliance built into every order workflow",
+        "MCA Title 16 excise tax calculations automated on all wine and beer transactions",
+        "Agency liquor store quota rules and license restrictions enforced automatically"
+    ],
+    "problem": [
+        "Montana's control-state spirits rules and agency store network managed manually",
+        "Title 16 excise filings assembled from disconnected data with every reporting cycle",
+        "Quota license limits and DOR reporting creating constant compliance pressure"
+    ],
+    "difference": [
+        "Auto-enforce Montana DOR control-state rules on every applicable order",
+        "Built-in Title 16 excise reporting directly from your live transaction data",
+        "Navigate Montana's agency store and quota system without manual tracking"
+    ],
+    "how_it_works": [
+        "Every account tagged with DOR license class and control-state status automatically",
+        "One-click Title 16 excise reports generated from actual orders and inventory",
+        "See route profitability and account health across all Montana territories"
+    ]
+}

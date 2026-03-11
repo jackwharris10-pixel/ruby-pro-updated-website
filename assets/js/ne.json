@@ -1,0 +1,23 @@
+{
+    "name": "Nebraska",
+    "why_ruby_pro": [
+        "NLCC licensing compliance built into every account, route, and delivery",
+        "Nebraska Revised Statutes Chapter 53 excise tax calculations automated on all transactions",
+        "Local option wet/dry territory rules enforced automatically across all Nebraska routes"
+    ],
+    "problem": [
+        "NLCC license classes and local option territory rules tracked manually across accounts",
+        "Chapter 53 excise filings assembled from disconnected spreadsheets each period",
+        "Keg registration requirements and local option elections creating compliance gaps"
+    ],
+    "difference": [
+        "Auto-enforce NLCC license restrictions and local option rules on every order",
+        "Built-in Chapter 53 excise reporting directly from your live transaction data",
+        "Handle keg registration and local option compliance without extra administrative work"
+    ],
+    "how_it_works": [
+        "Every account tagged with NLCC license class and local option status automatically",
+        "One-click Chapter 53 excise reports generated from actual orders and inventory",
+        "See route profitability and account health across all Nebraska territories"
+    ]
+}

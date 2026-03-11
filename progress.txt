@@ -36,3 +36,16 @@
 - Updated state_map.json to include all 31 states with JSON files
 **Result:** 7 new JSON files created with state-specific regulatory content. state_map.json updated.
 
+## Iteration 4 — 2026-03-11
+**Task:** Task 4 — Add state JSON: MA, MS, MO, MT, NE, NH, NM
+**What I did:**
+- Created assets/js/ma.json (Massachusetts — ABCC quota licensing, MGL Chapter 138 excise, local option municipalities)
+- Created assets/js/ms.json (Mississippi — ABC dry county enforcement, Title 67 excise, wet/dry/local-option territories)
+- Created assets/js/mo.json (Missouri — ATC licensing, RSMo Chapter 311 excise, local municipality rules)
+- Created assets/js/mt.json (Montana — MT DOR control state, MCA Title 16 excise, agency liquor store quota)
+- Created assets/js/ne.json (Nebraska — NLCC licensing, NRS Chapter 53 excise, local option wet/dry, keg registration)
+- Created assets/js/nh.json (New Hampshire — NHLC control-state spirits, RSA Chapter 178 excise, agency store workflows)
+- Created assets/js/nm.json (New Mexico — AGD licensing, NMSA Chapter 60-7A excise, transferable retail licenses, dry areas)
+- Updated state_map.json to include all 38 states with JSON files
+**Result:** 7 new JSON files created with state-specific regulatory content. state_map.json updated.
+

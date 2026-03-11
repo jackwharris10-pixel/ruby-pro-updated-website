@@ -29,5 +29,12 @@
     "ky": { "name": "Kentucky", "file": "ky.json" },
     "la": { "name": "Louisiana", "file": "la.json" },
     "me": { "name": "Maine", "file": "me.json" },
-    "md": { "name": "Maryland", "file": "md.json" }
+    "md": { "name": "Maryland", "file": "md.json" },
+    "ma": { "name": "Massachusetts", "file": "ma.json" },
+    "ms": { "name": "Mississippi", "file": "ms.json" },
+    "mo": { "name": "Missouri", "file": "mo.json" },
+    "mt": { "name": "Montana", "file": "mt.json" },
+    "ne": { "name": "Nebraska", "file": "ne.json" },
+    "nh": { "name": "New Hampshire", "file": "nh.json" },
+    "nm": { "name": "New Mexico", "file": "nm.json" }
 }

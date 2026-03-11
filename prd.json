@@ -37,7 +37,7 @@
       "acceptanceCriteria": ["7 new JSON files created", "state_map.json updated"],
       "model": "sonnet",
       "priority": 2,
-      "passes": false
+      "passes": true
     },
     {
       "id": 5,
