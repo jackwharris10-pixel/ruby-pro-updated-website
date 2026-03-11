@@ -1,0 +1,23 @@
+{
+    "name": "Alaska",
+    "why_ruby_pro": [
+        "Alaska Alcoholic Beverage Control Board licensing compliance built into every workflow",
+        "Excise tax calculations under Alaska Statutes Title 04 applied on every transaction",
+        "Local option community restrictions tracked automatically across Alaska's dry villages"
+    ],
+    "problem": [
+        "ABCB reporting assembled by hand from spreadsheets across remote, disconnected accounts",
+        "Alaska Title 04 excise tax calculations create compliance risk on every invoice",
+        "Local option rules in hundreds of communities make delivery eligibility hard to track"
+    ],
+    "difference": [
+        "Auto-calculate Alaska excise on beer, wine, and spirits at the line-item level",
+        "ABCB compliance reports generated from live transaction data — no manual assembly",
+        "Local option community database enforced at order entry so no prohibited deliveries"
+    ],
+    "how_it_works": [
+        "Every order flagged against ABCB license status and local option community restrictions",
+        "One-click ABCB reports pulled directly from actual sales and inventory records",
+        "See account health and route profitability across Alaska's remote distribution network"
+    ]
+}

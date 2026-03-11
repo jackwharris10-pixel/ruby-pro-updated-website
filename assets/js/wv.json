@@ -1,0 +1,23 @@
+{
+    "name": "West Virginia",
+    "why_ruby_pro": [
+        "West Virginia ABCA licensing compliance built into every distributor workflow",
+        "Excise tax calculations under WV Code Chapter 60 applied on every transaction",
+        "Control-state spirits tracking with the ABCA warehouse system managed automatically"
+    ],
+    "problem": [
+        "ABCA reporting assembled manually from disconnected spreadsheets across multiple accounts",
+        "West Virginia Chapter 60 excise tax calculations create compliance risk on every invoice",
+        "Local option wet/dry county rules across WV's 55 counties add delivery complexity"
+    ],
+    "difference": [
+        "Auto-calculate West Virginia excise on spirits, wine, and beer at the line-item level",
+        "ABCA compliance reports generated from live transaction data — no manual assembly",
+        "County-level delivery rules enforced automatically so drivers never service dry territories"
+    ],
+    "how_it_works": [
+        "Every order tagged with WV Chapter 60 excise rates and ABCA license status",
+        "One-click ABCA reports pulled directly from actual sales and inventory records",
+        "See account health and route profitability across all West Virginia counties in real time"
+    ]
+}

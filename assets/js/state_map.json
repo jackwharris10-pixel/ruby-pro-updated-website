@@ -43,5 +43,11 @@
     "ri": { "name": "Rhode Island", "file": "ri.json" },
     "sc": { "name": "South Carolina", "file": "sc.json" },
     "sd": { "name": "South Dakota", "file": "sd.json" },
-    "ut": { "name": "Utah", "file": "ut.json" }
+    "ut": { "name": "Utah", "file": "ut.json" },
+    "vt": { "name": "Vermont", "file": "vt.json" },
+    "wv": { "name": "West Virginia", "file": "wv.json" },
+    "wi": { "name": "Wisconsin", "file": "wi.json" },
+    "wy": { "name": "Wyoming", "file": "wy.json" },
+    "ak": { "name": "Alaska", "file": "ak.json" },
+    "al": { "name": "Alabama", "file": "al.json" }
 }

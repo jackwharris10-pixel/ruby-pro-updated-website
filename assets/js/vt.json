@@ -1,0 +1,23 @@
+{
+    "name": "Vermont",
+    "why_ruby_pro": [
+        "Vermont Department of Liquor and Lottery compliance embedded in every distributor workflow",
+        "Excise tax calculations under VSA Title 7 applied automatically on every transaction",
+        "Control-state spirits coordination with the DLL agency store network managed seamlessly"
+    ],
+    "problem": [
+        "DLL reporting assembled by hand from disconnected spreadsheets and paper invoices",
+        "Vermont Title 7 excise tax calculations create error risk across every invoice",
+        "Coordinating delivery schedules around DLL agency store constraints slows fulfillment"
+    ],
+    "difference": [
+        "Auto-calculate Vermont excise on beer, wine, and spirits at the line-item level",
+        "DLL compliance reports generated directly from live transaction and inventory data",
+        "Route visibility across Vermont's rural and mountain distribution territories"
+    ],
+    "how_it_works": [
+        "Every order tagged with Title 7 excise rates and DLL license requirements automatically",
+        "One-click DLL compliance reports pulled from actual sales and inventory records",
+        "See account health and route profitability across all Vermont territories in real time"
+    ]
+}

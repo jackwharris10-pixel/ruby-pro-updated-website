@@ -1,0 +1,23 @@
+{
+    "name": "Wisconsin",
+    "why_ruby_pro": [
+        "Wisconsin DOR alcohol licensing compliance embedded in every distributor workflow",
+        "Excise tax calculations under Wisconsin Statutes Chapter 125 applied on every transaction",
+        "Price posting requirements enforced automatically so every filing is accurate and on time"
+    ],
+    "problem": [
+        "DOR reporting assembled by hand from disconnected spreadsheets and paper records",
+        "Wisconsin Chapter 125 excise tax calculations create error risk across thousands of invoices",
+        "Navigating municipality-level licensing rules across Wisconsin's 1,800+ local governments"
+    ],
+    "difference": [
+        "Auto-calculate Wisconsin excise on beer, wine, and spirits at the line-item level",
+        "DOR compliance reports generated directly from live sales and inventory data",
+        "Municipality rules enforced at the account level so every delivery stays compliant"
+    ],
+    "how_it_works": [
+        "Every order tagged with Chapter 125 excise rates and DOR license requirements automatically",
+        "One-click DOR compliance reports pulled from actual sales and inventory records",
+        "See account health and route profitability across all Wisconsin territories in real time"
+    ]
+}

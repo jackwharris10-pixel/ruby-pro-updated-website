@@ -1,0 +1,23 @@
+{
+    "name": "Wyoming",
+    "why_ruby_pro": [
+        "Wyoming Liquor Division licensing compliance built into every distributor workflow",
+        "Excise tax calculations under Wyoming Statutes Title 12 applied on every transaction",
+        "Control-state spirits coordination with the Liquor Division warehouse managed automatically"
+    ],
+    "problem": [
+        "Liquor Division reporting assembled manually from disconnected spreadsheets and invoices",
+        "Wyoming Title 12 excise tax calculations create compliance risk across every order",
+        "Long-haul routes across Wyoming's vast geography make route optimization critical"
+    ],
+    "difference": [
+        "Auto-calculate Wyoming excise on spirits, wine, and beer at the line-item level",
+        "Liquor Division compliance reports generated from live transaction data — no manual work",
+        "Route optimization tools built for Wyoming's large-territory, low-density distribution"
+    ],
+    "how_it_works": [
+        "Every order tagged with Title 12 excise rates and Liquor Division license requirements",
+        "One-click compliance reports pulled directly from actual sales and inventory records",
+        "See account health and route profitability across all Wyoming territories in real time"
+    ]
+}

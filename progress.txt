@@ -62,3 +62,15 @@
 - Updated state_map.json to include all 45 states/DC with JSON files
 **Result:** 7 new JSON files created with state-specific regulatory content. state_map.json updated.
 
+## Iteration 6 — 2026-03-11
+**Task:** Task 6 — Add state JSON: VT, WV, WI, WY, AK, AL
+**What I did:**
+- Created assets/js/vt.json (Vermont — DLL licensing, VSA Title 7 excise, control-state spirits)
+- Created assets/js/wv.json (West Virginia — ABCA licensing, WV Code Chapter 60 excise, control-state, wet/dry counties)
+- Created assets/js/wi.json (Wisconsin — DOR licensing, WI Statutes Chapter 125 excise, price posting, municipality rules)
+- Created assets/js/wy.json (Wyoming — Liquor Division licensing, Title 12 excise, control-state, long-haul routes)
+- Created assets/js/ak.json (Alaska — ABCB licensing, AS Title 04 excise, local option dry communities)
+- Created assets/js/al.json (Alabama — ABC Board licensing, Code of Alabama Title 28 excise, control-state, wet/dry counties)
+- Updated state_map.json to include all 51 entries (50 states + DC)
+**Result:** 6 new JSON files created with state-specific regulatory content. state_map.json now has all 50 states + DC.
+
