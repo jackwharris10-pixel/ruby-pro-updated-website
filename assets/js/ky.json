@@ -1,0 +1,23 @@
+{
+    "name": "Kentucky",
+    "why_ruby_pro": [
+        "Kentucky ABC compliance built for distributors in a wet/dry county market",
+        "KRS Chapter 243 excise tax calculations at the transaction level",
+        "Supports Kentucky's bourbon and spirits distributor reporting requirements"
+    ],
+    "problem": [
+        "Wet/dry and moist county rules tracked in notebooks, not systems",
+        "KRS 243 excise filings assembled manually from multiple data sources",
+        "Kentucky ABC audit requests reveal gaps in paper-based compliance records"
+    ],
+    "difference": [
+        "County alcohol status enforced automatically on every order entry",
+        "Chapter 243 excise rates applied per product category at billing",
+        "Built-in Kentucky ABC reporting from your live transaction data"
+    ],
+    "how_it_works": [
+        "Accounts tagged with county wet/dry status and license type",
+        "Excise tax totals roll up by filing period for one-click KY ABC export",
+        "Route dashboards show profitability and compliance across all Kentucky territories"
+    ]
+}

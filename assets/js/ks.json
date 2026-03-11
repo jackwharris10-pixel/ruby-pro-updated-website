@@ -1,0 +1,23 @@
+{
+    "name": "Kansas",
+    "why_ruby_pro": [
+        "Kansas ABC licensing compliance enforced at every order",
+        "Wet/dry county rules applied automatically across all routes",
+        "Kansas Liquor Control Act (KSA Chapter 41) excise built into billing"
+    ],
+    "problem": [
+        "Wet/dry county restrictions tracked manually, leading to compliance gaps",
+        "KSA Chapter 41 excise calculations done after delivery, not at order",
+        "Kansas ABC license status checked only when inspectors call"
+    ],
+    "difference": [
+        "County-level wet/dry status checked before every order is accepted",
+        "Chapter 41 excise rates applied per SKU at point of order entry",
+        "ABC license expiry alerts prevent deliveries to unlicensed accounts"
+    ],
+    "how_it_works": [
+        "Every account tagged with county jurisdiction and wet/dry status",
+        "Excise totals aggregated per filing period for Kansas ABC submission",
+        "Route profitability visible across all Kansas counties in real time"
+    ]
+}

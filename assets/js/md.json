@@ -1,0 +1,23 @@
+{
+    "name": "Maryland",
+    "why_ruby_pro": [
+        "Maryland ATCC licensing compliance enforced across all 24 county jurisdictions",
+        "County-based license rules applied automatically at order entry",
+        "Maryland Comptroller excise reporting built into every transaction"
+    ],
+    "problem": [
+        "Maryland's 24-county licensing system tracked manually per account",
+        "Comptroller excise filings built from scattered delivery and billing records",
+        "ATCC audit requests expose gaps in paper-based compliance tracking"
+    ],
+    "difference": [
+        "County-specific ATCC license status checked before every order ships",
+        "Maryland excise rates calculated per SKU and rolled up by filing period",
+        "Built-in Comptroller reporting from live order data — no re-entry required"
+    ],
+    "how_it_works": [
+        "Each account tagged with county jurisdiction and ATCC license details",
+        "Excise totals aggregated per period for Maryland Comptroller submission",
+        "Route dashboards show territory performance across all Maryland counties"
+    ]
+}

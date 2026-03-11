@@ -22,5 +22,12 @@
     "de": { "name": "Delaware", "file": "de.json" },
     "dc": { "name": "Washington DC", "file": "dc.json" },
     "hi": { "name": "Hawaii", "file": "hi.json" },
-    "id": { "name": "Idaho", "file": "id.json" }
+    "id": { "name": "Idaho", "file": "id.json" },
+    "in": { "name": "Indiana", "file": "in.json" },
+    "ia": { "name": "Iowa", "file": "ia.json" },
+    "ks": { "name": "Kansas", "file": "ks.json" },
+    "ky": { "name": "Kentucky", "file": "ky.json" },
+    "la": { "name": "Louisiana", "file": "la.json" },
+    "me": { "name": "Maine", "file": "me.json" },
+    "md": { "name": "Maryland", "file": "md.json" }
 }

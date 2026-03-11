@@ -1,0 +1,23 @@
+{
+    "name": "Louisiana",
+    "why_ruby_pro": [
+        "Louisiana ATC licensing compliance enforced on every transaction",
+        "Parish-level regulations handled automatically across all routes",
+        "Louisiana RS Title 26 excise tax calculated at the order level"
+    ],
+    "problem": [
+        "Parish-by-parish alcohol rules tracked manually across dozens of territories",
+        "Louisiana ATC license status verified only when renewals arrive",
+        "Title 26 excise filings built from disconnected delivery and billing records"
+    ],
+    "difference": [
+        "Parish jurisdiction and ATC license rules checked before every order ships",
+        "Title 26 excise rates applied per SKU automatically at order entry",
+        "ATC compliance reports generated from live data — no manual re-entry"
+    ],
+    "how_it_works": [
+        "Each account tagged with parish jurisdiction and ATC license details",
+        "Excise totals aggregated per filing period for Louisiana ATC submission",
+        "Route profitability dashboards cover all Louisiana parishes in real time"
+    ]
+}

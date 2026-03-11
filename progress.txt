@@ -23,3 +23,16 @@
 - Updated state_map.json to include all 24 states with JSON files (14 from Task 1 + co + il + 7 new)
 **Result:** 7 new JSON files created with state-specific regulatory content. state_map.json updated.
 
+## Iteration 3 — 2026-03-11
+**Task:** Task 3 — Add state JSON: IN, IA, KS, KY, LA, ME, MD
+**What I did:**
+- Created assets/js/in.json (Indiana — ATC licensing, Indiana Code Title 7.1 excise)
+- Created assets/js/ia.json (Iowa — ABD compliance, Iowa Code Chapter 123, control-state spirits)
+- Created assets/js/ks.json (Kansas — ABC licensing, wet/dry county rules, KSA Chapter 41)
+- Created assets/js/ky.json (Kentucky — ABC compliance, KRS Chapter 243, wet/dry county)
+- Created assets/js/la.json (Louisiana — ATC licensing, parish-level rules, RS Title 26)
+- Created assets/js/me.json (Maine — BABLO licensing, control-state spirits, Title 28-A)
+- Created assets/js/md.json (Maryland — ATCC licensing, 24-county system, Comptroller excise)
+- Updated state_map.json to include all 31 states with JSON files
+**Result:** 7 new JSON files created with state-specific regulatory content. state_map.json updated.
+

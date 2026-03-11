@@ -1,0 +1,23 @@
+{
+    "name": "Indiana",
+    "why_ruby_pro": [
+        "Indiana ATC licensing compliance built into every transaction",
+        "Excise tax calculations aligned with Indiana Code Title 7.1 schedules",
+        "Three-tier enforcement so every sale routes through the proper channel"
+    ],
+    "problem": [
+        "ATC license tracking scattered across emails and spreadsheets",
+        "Indiana Title 7.1 excise calculations done manually after delivery",
+        "Three-tier compliance gaps discovered only during audits"
+    ],
+    "difference": [
+        "Auto-validate ATC license status on every account before order entry",
+        "Indiana excise tax computed and recorded at the transaction level",
+        "Three-tier route rules enforced system-wide, not case by case"
+    ],
+    "how_it_works": [
+        "Each account stores ATC license type and expiry — alerts fire automatically",
+        "Title 7.1 excise rates applied per SKU at order confirmation",
+        "Route profitability reports show margin across all Indiana territories"
+    ]
+}

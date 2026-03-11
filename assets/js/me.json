@@ -1,0 +1,23 @@
+{
+    "name": "Maine",
+    "why_ruby_pro": [
+        "Maine BABLO compliance for licensed beer and wine distributors",
+        "Maine Revised Statutes Title 28-A excise reporting built in",
+        "Handles Maine's control-state spirits environment alongside open-market distribution"
+    ],
+    "problem": [
+        "BABLO license requirements tracked in spreadsheets, not your ERP",
+        "Title 28-A excise calculations assembled manually each quarter",
+        "Control-state product restrictions enforced inconsistently across routes"
+    ],
+    "difference": [
+        "BABLO license validation on every account before order acceptance",
+        "Title 28-A excise rates applied automatically per product and category",
+        "Clear separation of control-state and licensed distributor product lines"
+    ],
+    "how_it_works": [
+        "Accounts store BABLO license type and expiry with auto-renewal alerts",
+        "Excise totals roll up by period for one-click Maine BABLO export",
+        "Route analytics show account health and profitability across all Maine territories"
+    ]
+}

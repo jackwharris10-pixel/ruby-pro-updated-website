@@ -1,0 +1,23 @@
+{
+    "name": "Iowa",
+    "why_ruby_pro": [
+        "Iowa ABD compliance for beer and wine distributors out of the box",
+        "Iowa Code Chapter 123 excise reporting built into every transaction",
+        "Handles Iowa's control-state spirits model alongside open-market beer and wine"
+    ],
+    "problem": [
+        "Beer and wine licensing tracked separately from spirits control requirements",
+        "Chapter 123 excise calculations assembled from disconnected records",
+        "Iowa ABD reporting built by hand every quarter"
+    ],
+    "difference": [
+        "Unified compliance for both ABD-licensed and control-state products",
+        "Chapter 123 excise computed automatically per product category",
+        "Iowa ABD reports generated from live order data, not manual re-entry"
+    ],
+    "how_it_works": [
+        "Product catalog flags control vs. open-market items for correct routing",
+        "Excise totals roll up per filing period with one-click ABD export",
+        "Route analytics show account health across all Iowa territories"
+    ]
+}
