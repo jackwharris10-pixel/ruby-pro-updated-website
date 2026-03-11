@@ -1,0 +1,23 @@
+{
+    "name": "Florida",
+    "why_ruby_pro": [
+        "DBPR licensing compliance without the spreadsheet maze",
+        "Beverage tax calculations that handle wine, beer, and spirits differently",
+        "Seasonal volume swings managed with real-time inventory"
+    ],
+    "problem": [
+        "DBPR license tracking scattered across files and emails",
+        "Different tax rates for wine, beer, and spirits calculated manually",
+        "Tourism-driven demand spikes that catch your inventory off guard"
+    ],
+    "difference": [
+        "Auto-track DBPR license status across 52K+ Florida accounts",
+        "Calculate product-specific beverage taxes on every transaction",
+        "Forecast seasonal demand from your actual sales history"
+    ],
+    "how_it_works": [
+        "Every order applies the right tax rate by product category",
+        "See license expiration, credit status, and account health in one view",
+        "Manage Florida's on-premise and off-premise complexity from one system"
+    ]
+}

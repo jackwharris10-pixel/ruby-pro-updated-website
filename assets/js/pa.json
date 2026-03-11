@@ -1,0 +1,23 @@
+{
+    "name": "Pennsylvania",
+    "why_ruby_pro": [
+        "PLCB control state rules built into every workflow",
+        "State store system integration without manual reconciliation",
+        "Johnstown Flood Tax and emergency tax calculated automatically"
+    ],
+    "problem": [
+        "PLCB control state rules managed through manual processes",
+        "State store orders reconciled by hand against your own books",
+        "Pennsylvania's unique tax structure calculated on spreadsheets"
+    ],
+    "difference": [
+        "Purpose-built for Pennsylvania's control state distribution model",
+        "Auto-reconcile state store transactions with your inventory",
+        "Calculate Johnstown Flood Tax, emergency tax, and excise on every order"
+    ],
+    "how_it_works": [
+        "Every order routes through Pennsylvania's control state logic",
+        "One system for PLCB compliance, pricing, and inventory",
+        "See true profitability after all Pennsylvania-specific taxes and fees"
+    ]
+}

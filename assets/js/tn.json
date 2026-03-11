@@ -1,0 +1,23 @@
+{
+    "name": "Tennessee",
+    "why_ruby_pro": [
+        "Tennessee's $0.40/gallon excise tax calculated on every order automatically",
+        "TABC compliance for pricing, posting, and reporting — built in",
+        "Commission tracking across your Tennessee sales team"
+    ],
+    "problem": [
+        "Tennessee excise at $0.40/gallon calculated manually across your entire portfolio",
+        "Commission tracking for sales reps done in separate spreadsheets",
+        "Pricing compliance and state reporting assembled from disconnected data"
+    ],
+    "difference": [
+        "Auto-calculate TN excise tax per gallon on every order and invoice",
+        "Commission calculations tied directly to orders — no separate tracking",
+        "One system for orders, pricing, commissions, and Tennessee compliance"
+    ],
+    "how_it_works": [
+        "Set up Tennessee excise rates and commission rules once — Ruby handles the rest",
+        "Price books, tax calculations, and compliance enforced on every transaction",
+        "See profitability by product, account, territory, and sales rep across Tennessee"
+    ]
+}

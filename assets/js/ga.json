@@ -1,0 +1,23 @@
+{
+    "name": "Georgia",
+    "why_ruby_pro": [
+        "DOR licensing compliance across Georgia's county-level laws",
+        "Dry, wet, and moist county rules enforced automatically",
+        "Excise tax calculations built into every transaction"
+    ],
+    "problem": [
+        "County-level dry/wet/moist laws tracked in someone's head",
+        "DOR compliance assembled manually from disconnected data",
+        "Growing Georgia market outpacing your spreadsheet capacity"
+    ],
+    "difference": [
+        "Auto-enforce county-level alcohol laws on every order",
+        "Built-in DOR compliance reporting from your live transaction data",
+        "Scale into Georgia's growing market without adding admin overhead"
+    ],
+    "how_it_works": [
+        "Every account tagged with county-level rules automatically",
+        "One-click DOR reporting from actual orders and inventory",
+        "See route profitability and account health across all Georgia territories"
+    ]
+}

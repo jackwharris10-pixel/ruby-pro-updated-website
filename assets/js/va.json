@@ -1,0 +1,23 @@
+{
+    "name": "Virginia",
+    "why_ruby_pro": [
+        "Virginia ABC compliance for wine and beer distribution built in",
+        "Handle Virginia's control state rules without spreadsheet workarounds",
+        "Excise tax automation across Virginia's wine and beer categories"
+    ],
+    "problem": [
+        "Virginia ABC regulates pricing, licensing, and reporting — tracked manually",
+        "Control state for spirits means different workflows for wine/beer vs. spirits",
+        "Account-level pricing across Virginia's diverse market regions"
+    ],
+    "difference": [
+        "Virginia ABC reporting generated automatically from transaction data",
+        "Product-type-aware compliance: different rules for wine, beer, and cider",
+        "Account-level pricing with built-in Virginia regulatory validation"
+    ],
+    "how_it_works": [
+        "Ruby knows Virginia's excise rates and ABC reporting requirements",
+        "Compliance and pricing rules enforced automatically on every order",
+        "Track margins, depletions, and territory performance across Virginia"
+    ]
+}

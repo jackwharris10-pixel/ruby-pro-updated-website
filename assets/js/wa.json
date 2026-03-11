@@ -1,0 +1,23 @@
+{
+    "name": "Washington",
+    "why_ruby_pro": [
+        "Washington LCB price posting rules automated end-to-end",
+        "Spirits liter tax ($3.7708/liter) calculated on every order",
+        "Multi-state ready if you also distribute in Oregon or Idaho"
+    ],
+    "problem": [
+        "LCB mandatory price posting done manually every filing period",
+        "Washington's spirits liter tax is one of the highest in the country — tracked by hand",
+        "Price posting compliance across on-premise and off-premise accounts"
+    ],
+    "difference": [
+        "Auto-generate LCB-compliant price postings from your live price data",
+        "Spirits liter tax, wine excise, and beer excise calculated per order automatically",
+        "On-premise vs. off-premise pricing rules enforced without manual checks"
+    ],
+    "how_it_works": [
+        "Set up WA pricing rules once — Ruby applies them to every order and invoice",
+        "Excise tax engine knows Washington's rates for wine, beer, and spirits",
+        "Real-time visibility into margins, depletions, and compliance across Washington"
+    ]
+}

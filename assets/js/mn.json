@@ -1,0 +1,23 @@
+{
+    "name": "Minnesota",
+    "why_ruby_pro": [
+        "Minnesota's $0.46/case excise tax calculated automatically on every order",
+        "Handle MN's unique Sunday sale restrictions and municipal regulations",
+        "Multi-tier pricing with built-in Minnesota compliance"
+    ],
+    "problem": [
+        "Minnesota excise at $0.46/case calculated manually across hundreds of SKUs",
+        "Municipal-level liquor regulations vary across Minnesota's cities and counties",
+        "Price compliance across on-premise and off-premise accounts tracked in spreadsheets"
+    ],
+    "difference": [
+        "Auto-calculate MN excise tax per case, per order — no manual math",
+        "Account-level pricing rules that respect Minnesota's regulatory framework",
+        "One system for orders, pricing, inventory, and MN compliance reporting"
+    ],
+    "how_it_works": [
+        "Set up Minnesota excise rates once — Ruby applies them to every transaction",
+        "Price books and account rules enforced automatically across your territory",
+        "See margin, depletion, and compliance data for your Minnesota book of business"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Nevada",
+    "why_ruby_pro": [
+        "Nevada hospitality account pricing managed in one system",
+        "High-volume on-premise workflows built for Las Vegas and Reno markets",
+        "Excise tax automation for Nevada's wine and spirits categories"
+    ],
+    "problem": [
+        "Casino and hospitality accounts have unique volume tiers — tracked manually",
+        "On-premise pricing complexity across Las Vegas strip, locals, and rural markets",
+        "Nevada excise tax and compliance reporting done in spreadsheets"
+    ],
+    "difference": [
+        "Account-level pricing that handles hospitality volume tiers automatically",
+        "On-premise vs. off-premise pricing rules enforced on every order",
+        "Nevada excise tax calculated per transaction — no manual math"
+    ],
+    "how_it_works": [
+        "Ruby handles Nevada's excise rates and account-specific pricing rules",
+        "High-volume order workflows built for the pace of Las Vegas hospitality",
+        "Track margins, depletions, and account performance across Nevada"
+    ]
+}

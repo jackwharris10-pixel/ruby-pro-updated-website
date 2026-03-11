@@ -1,0 +1,23 @@
+{
+    "name": "North Carolina",
+    "why_ruby_pro": [
+        "NC ABC Board compliance built into every wine and beer transaction",
+        "County-level wet/dry/moist law mapping for delivery compliance",
+        "Excise tax automation across North Carolina's product categories"
+    ],
+    "problem": [
+        "NC ABC Board reporting assembled manually from disconnected systems",
+        "County-level wet/dry laws change your delivery map — tracked in spreadsheets",
+        "Excise rates differ for wine, beer, and fortified wine — calculated by hand"
+    ],
+    "difference": [
+        "Auto-generate NC ABC-compliant reports from your live transaction data",
+        "County-level compliance flags built into your delivery and order workflow",
+        "Product-type-specific excise calculations on every order, automatically"
+    ],
+    "how_it_works": [
+        "Ruby knows NC's excise rates and ABC reporting requirements by product type",
+        "Delivery compliance validated against county-level regulations before shipping",
+        "Track depletions, margins, and territory performance across North Carolina"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "New Jersey",
+    "why_ruby_pro": [
+        "NJ ABC price filing automation — no more manual uploads",
+        "Multi-warehouse inventory across NJ's fragmented delivery zones",
+        "Excise tax calculated per gallon by product type, automatically"
+    ],
+    "problem": [
+        "ABC price filings done manually every posting period",
+        "Excise tax rates differ for wine, beer, and spirits — tracked in spreadsheets",
+        "Delivery zone complexity across North, Central, and South Jersey"
+    ],
+    "difference": [
+        "Auto-generate NJ ABC price postings from your live price books",
+        "Calculate excise tax per product type per order without manual math",
+        "Route and zone management built for NJ's delivery geography"
+    ],
+    "how_it_works": [
+        "Set up NJ-compliant pricing rules once — Ruby enforces them on every order",
+        "Excise tax, sales tax, and account-level pricing calculated in real time",
+        "See profitability by account, product, and territory across New Jersey"
+    ]
+}

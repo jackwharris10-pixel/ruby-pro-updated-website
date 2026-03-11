@@ -1,0 +1,23 @@
+{
+    "name": "Texas",
+    "why_ruby_pro": [
+        "TABC compliance reporting built in, not bolted on",
+        "Three-tier enforcement you can trust automatically",
+        "Credit checks across 60K+ accounts without manual lookups"
+    ],
+    "problem": [
+        "TABC reports assembled manually every month",
+        "Three-tier violations from missing visibility into the chain",
+        "Credit exposure growing across accounts with no real-time checks"
+    ],
+    "difference": [
+        "Auto-generate TABC-ready compliance reports from live data",
+        "Enforce three-tier rules at the order level, not after the fact",
+        "Run real-time credit checks before every release"
+    ],
+    "how_it_works": [
+        "One-click TABC reporting from your actual transaction data",
+        "See every account, every order, every compliance flag in one view",
+        "Track profitability by route, by account, by SKU across Texas"
+    ]
+}

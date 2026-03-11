@@ -1,0 +1,23 @@
+{
+    "name": "Ohio",
+    "why_ruby_pro": [
+        "Ohio DOLC compliance built into every transaction",
+        "Handle Ohio's hybrid control/open system without workarounds",
+        "Excise tax automation for wine and beer distribution"
+    ],
+    "problem": [
+        "Ohio's hybrid system means different rules for spirits vs. wine and beer",
+        "DOLC reporting assembled manually from disconnected data",
+        "Account-level pricing tracked in spreadsheets across Ohio's 88 counties"
+    ],
+    "difference": [
+        "Automate DOLC-compliant reporting from live transaction data",
+        "Product-type-aware tax engine handles Ohio's hybrid control model",
+        "Account-level price books with built-in compliance validation"
+    ],
+    "how_it_works": [
+        "Ruby knows Ohio's excise rates by product type — wine, beer, mixed",
+        "Compliance reporting generated from the same data you use for orders",
+        "Track depletion, margins, and territory performance across Ohio"
+    ]
+}

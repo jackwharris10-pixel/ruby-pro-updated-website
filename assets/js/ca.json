@@ -1,0 +1,23 @@
+{
+    "name": "California",
+    "why_ruby_pro": [
+        "CRV deposit tracking built into every transaction",
+        "ABC licensing compliance without spreadsheet workarounds",
+        "Tied-house law safeguards on every order"
+    ],
+    "problem": [
+        "CRV bottle deposits tracked manually across 84K+ accounts",
+        "ABC compliance filed from disconnected spreadsheets",
+        "Tied-house violations from missing visibility into account relationships"
+    ],
+    "difference": [
+        "Auto-calculate CRV deposits per SKU per order",
+        "Built-in ABC compliance reporting and license verification",
+        "Flag tied-house risk before orders ship, not after violations"
+    ],
+    "how_it_works": [
+        "Every order auto-includes CRV, excise, and sales tax",
+        "Track ABC license status across your entire book of business",
+        "See account profitability clearly across California's massive market"
+    ]
+}
