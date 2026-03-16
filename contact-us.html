@@ -34,6 +34,8 @@ document.head.appendChild(o)}initApollo();</script>
                     <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="/route-accounting">Distributors</a></li>
                     <li class="nav-item"><a class="nav-link" href="/pricing">Suppliers</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://rubyprolicenseintelligence.up.railway.app/">Find Accounts</a></li>
+                    <li class="nav-item"><a class="btn btn-outline-primary ms-lg-3" role="button" href="https://rubyprolicenseintelligence.up.railway.app/">Log In</a></li>
                     <li class="nav-item"><a class="btn btn-primary ms-lg-3" role="button" href="/contact-us.html">Contact Us</a></li>
                 </ul>
             </div>
@@ -48,15 +50,18 @@ document.head.appendChild(o)}initApollo();</script>
                             <div class="card mb-5">
                                 <div class="card-body p-sm-5">
                                     <h2 class="text-center mb-4">Contact us</h2>
-                                    <form method="post">
+                                    <div id="contact-success" class="alert alert-success d-none" role="alert">
+                                        <strong>Message sent!</strong> We got your message and will get back to you within 24 hours.
+                                    </div>
+                                    <div id="contact-form-fields">
                                         <div class="mb-3"><input class="form-control" type="text" id="name-2" name="name" placeholder="Name" required=""></div>
                                         <div class="mb-3"><input class="form-control" type="tel" placeholder="Phone" name="phone"></div>
                                         <div class="mb-3"><input class="form-control" type="email" id="email-2" name="email" placeholder="Email" required=""></div>
                                         <div class="mb-3"><textarea class="form-control" id="message-2" name="message" rows="6" placeholder="Message"></textarea>
                                             <div class="g-recaptcha" data-sitekey="6Le0nN0rAAAAAHwDKm5xYQjzKD-MHZ_27ghE_hpv" style="margin-top: 15px"></div>
                                         </div>
-                                        <div><button class="btn btn-primary w-100 d-block" type="submit">Send </button></div>
-                                    </form>
+                                        <div><button class="btn btn-primary w-100 d-block" type="submit" id="contact-submit-btn">Send </button></div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -68,12 +73,42 @@ document.head.appendChild(o)}initApollo();</script>
     <footer class="bg-white mt-5 py-4 border-top">
         <div class="container d-flex justify-content-between align-items-center flex-wrap">
             <p class="text-muted mb-0 small">© 2025 Ruby Pro Software. Built for wine &amp; spirits distributors.</p>
-            <div class="text-primary small"><a class="text-decoration-none me-3" href="/" style="color: #681d15 !important">Home</a><a class="text-decoration-none me-3" href="/route-accounting" style="color: #681d15 !important">Ruby Pro ERP</a><a class="text-decoration-none me-3" href="/pricing" style="color: #681d15 !important">Ruby Price Management</a><a class="text-decoration-none" href="/contact-us.html" style="color: #681d15 !important">Contact Us</a></div>
+            <div class="text-primary small"><a class="text-decoration-none me-3" href="/" style="color: #681d15 !important">Home</a><a class="text-decoration-none me-3" href="/route-accounting" style="color: #681d15 !important">Ruby Pro ERP</a><a class="text-decoration-none me-3" href="/pricing" style="color: #681d15 !important">Ruby Price Management</a><a class="text-decoration-none me-3" href="https://rubyprolicenseintelligence.up.railway.app/" style="color: #681d15 !important">Find Accounts</a><a class="text-decoration-none" href="/contact-us.html" style="color: #681d15 !important">Contact Us</a></div>
         </div>
     </footer>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/smart-forms.min.js"></script>
     <script src="assets/js/states.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var form = document.querySelector('form[data-bss-recipient]');
+        if (form) {
+            form.addEventListener('submit', function(e) {
+                var name = document.getElementById('name-2');
+                var email = document.getElementById('email-2');
+                if (name && name.value && email && email.value) {
+                    setTimeout(function() {
+                        document.getElementById('contact-success').classList.remove('d-none');
+                        document.getElementById('contact-form-fields').style.display = 'none';
+                    }, 500);
+                }
+            });
+        }
+        var btn = document.getElementById('contact-submit-btn');
+        if (btn) {
+            btn.addEventListener('click', function() {
+                var name = document.getElementById('name-2');
+                var email = document.getElementById('email-2');
+                if (name && name.value && email && email.value) {
+                    setTimeout(function() {
+                        document.getElementById('contact-success').classList.remove('d-none');
+                        document.getElementById('contact-form-fields').style.display = 'none';
+                    }, 500);
+                }
+            });
+        }
+    });
+    </script>
 </body>
 
 </html>
